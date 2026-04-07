@@ -1,5 +1,4 @@
 print(f"We are good friends")
 
 print("MAJOR PROJECT")
-
-print("Placify - platform")
+print("we are doing the major project in group of 4")
