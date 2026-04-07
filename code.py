@@ -1,9 +1,8 @@
-print(f"We are good friends")
-
-print("MAJOR PROJECT")
 <<<<<<< HEAD
+print(f"We are good friends")
+print("MAJOR PROJECT")
 print("we are doing the major project in group of 4")
-=======
-
 print("Placify - platform")
->>>>>>> af32325744a5dc7171f049f2b72d49c76ada39b3
+print("Bhoomika C")
+print("We work together")
+
