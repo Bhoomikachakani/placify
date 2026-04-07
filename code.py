@@ -1,1 +1,1 @@
-print("Bhoomika C")
+print(f"We are good friends")
